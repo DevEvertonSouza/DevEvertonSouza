@@ -18,7 +18,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas na universidade (Uninter
 - **[Renda e Charme](https://devevertonsouza.github.io/Renda-e-Charme)**  
   Loja de lingerie elegante e responsiva, com área secreta e visual sofisticado.
 
-- **OrçaFácil** (em breve)  
+- **OrçaFácil** (https://github.com/DevEvertonSouza/OrcaFacil)
   Uma ferramenta gratuita e prática para calcular materiais de obra como reboco, alvenaria, capoto e muito mais.
 
 ---
