@@ -1,40 +1,47 @@
-## Hi there 👋
-<h1 align="center">Olá, eu sou Everton Souza ✨</h1>
+# Olá, sou Everton Souza! 👋  
 
-<p align="center">
-  Desenvolvedor apaixonado por soluções práticas, com experiência na construção civil e foco em tecnologia útil e acessível.
-</p>
+📚 **Estudante de Análise e Desenvolvimento de Sistemas** (UNINTER)  
+📍 **Lisboa, Portugal** | 🎯 Busco estágio em Desenvolvimento  
 
----
+## 🚀 Projetos em Destaque  
 
-## Sobre mim
+### [OrçaFacil](# Olá, sou Everton Souza! 👋  
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na universidade (Uninter Internacional) e venho aplicando meus conhecimentos para criar ferramentas voltadas ao dia a dia de quem trabalha com obras e também no ramo de e-commerce. Acredito que programação também pode ser mágica quando resolve problemas reais.
+📚 **Estudante de Análise e Desenvolvimento de Sistemas** (UNINTER)  
+📍 **Lisboa, Portugal** | 🎯 Busco estágio em Desenvolvimento  
 
----
+## 🚀 Projetos em Destaque  
 
-## Projetos em destaque
+### [OrçaFacil](https://devevertonsouza.github.io/OrcaFacil/) 
+📌 **Ferramenta em Python para cálculo de materiais de construção**  
+- ✅ Funcionalidades: Cálculo de tijolos, integração com SQLite  
+- 🛠 Tecnologias: Python, SQLite  
+- 📅 Status: Em desenvolvimento (previsão de conclusão: Dez/2025)  
 
-- **[Renda e Charme](https://devevertonsouza.github.io/Renda-e-Charme)**  
-  Loja de lingerie elegante e responsiva, com área secreta e visual sofisticado.
+### [Renda e Charme](https://devevertonsouza.github.io/Renda-e-Charme/)
+📌 **E-commerce para artesanato**  
+- 🛠 Tecnologias: HTML, CSS, JavaScript  
+- 📅 Status: Planejamento  
 
-- **OrçaFácil** (https://devevertonsouza.github.io/OrcaFacil/)
-  Uma ferramenta gratuita e prática para calcular materiais de obra como reboco, alvenaria, capoto e muito mais.
+## 💻 Habilidades  
+```python
+# Linguagens e Ferramentas
+- Python | Java | SQL
+- HTML/CSS | JavaScript 
+- Git | GitHub)  
+📌 **Ferramenta em Python para cálculo de materiais de construção**  
+- ✅ Funcionalidades: Cálculo de tijolos, integração com SQLite  
+- 🛠 Tecnologias: Python, SQLite  
+- 📅 Status: Em desenvolvimento (previsão de conclusão: Dez/2024)  
 
----
+### [Renda e Charme](link_do_repositorio)  
+📌 **E-commerce para artesanato**  
+- 🛠 Tecnologias: HTML, CSS, JavaScript  
+- 📅 Status: Planejamento  
 
-## Linguagens e Tecnologias
-
-- HTML5, CSS3, JavaScript
-- Python (lógica, orçamentos e automações)
-- Git & GitHub
-- Desenvolvimento Web Responsivo
-- Interesse em PWAs e apps para construção civil
-
----
-
-<p align="center">
-  ✉️ <em>“Transformando a experiência de obra em soluções digitais.”</em>
-</p>
-<!--
-
+## 💻 Habilidades  
+```python
+# Linguagens e Ferramentas
+- Python | Java | SQL
+- HTML/CSS | JavaScript 
+- Git | GitHub
